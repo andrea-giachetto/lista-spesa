@@ -111,7 +111,7 @@ public class Application {
      * - Serve per INIZIALIZZARE gli attributi
      * 
      * ESEMPIO di uso:
-     * ListaDellaSpesa lista = new ListaDellaSpesa();
+     * Application lista = new Application();
      *                              ↑
      *                    QUI viene chiamato il costruttore!
      */

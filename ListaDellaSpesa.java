@@ -25,6 +25,7 @@ public class ListaDellaSpesa {
     // Attributi
     private List<Map<String, Object>> articoli;
     private Scanner scanner;
+    private String miaStringa;
     
     // Costruttore
     public ListaDellaSpesa() {
